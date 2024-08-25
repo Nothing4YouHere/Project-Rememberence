@@ -1,0 +1,217 @@
+"Biorhythms"
+
+Every facet of your Spirit has rhythms and flows. Swaying their ability to communicate, gain favor, or influence desires. Among other things. This is a quick run-down. ~_^
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1) MNF = Manifestation, A Spirit's ability to take action. Spirits with higher MNF will often take action when others will not. Inversely Spirits with low MNF will tend to be indecisive, preferring to follow, rather than lead.
+
+2) SPL = Splendor, The Ability of a Spirit to invoke awe. Spirits with higher SPL like to be the center of attention with flashy clothes, or abilities. Inversely Spirits with low SPL tend to be bland, and blend in more easily.
+
+3) BEU = Beauty, The beauty/purity of the Spirit. Spirits high in BEU tend to be more courageous and nurturing, more to do with inner beauty. Inversely Spirits with low BEU tend to be less willing to help others with an almost callous regard for their suffering.
+
+4) STR = Strength, Relates to a Spirit's force of will. Spirits high in STR have incredible will power, standing in the face of certain death when others might not. Inversely Spirits low in STR tend to be more timid and willing to follow others who they feel might protect them.
+
+5) FND = Foundation, Represents the stability of the Spirit. Spirits high in FND tend to stand on principle willing to sacrifice themselves or others for their cause. Inversely Spirits low in FND will change their stances on a whim, being more willing to change sides or turn on their allies.
+
+6) KNO = Knowledge, A Spirit's drive toward profound truths. Spirits high in KNO are those who seek information at nearly any cost, knowing being the reward in and of itself. Inversely Spirits low in KNO tend to come across as more air headed, and willing to embrace their own ignorance.
+
+7) UND = Understanding, A Spirit's Problem solving and compassion towards others. Spirits high in UND learn how others think and feel quickly, even if they don't share those sentiments personally. Inversely Spirits low in UND will have almost complete disregaurd for the disposition of others, not really caring what they think or feel one way or another.
+	
+8) WIS = Wisdom, Determines how deeply a Spirit contemplates situations. Spirits high in WIS have seen more than their fair share of experiences, learning how to reason their way through situations more easily. Inversely Spirits low in WIS may tend to be naieve and impulsive, opting instead to jump right in and see what happens, even to their own detriment.
+	
+9) VIT = Virtue, The degree to which a Spirit will honor it's convictions. Spirits high in VIT will almost always stand by their word, even if it could get them killed, and detest lying. Inversely Spirits low in VIT will be more likely to swindle and steal if given the chance, without a regard for what effect that might have on the world around them.
+
+10) SEX = Sexuality, The level of sexuality within the Spirit. Spirits high in SEX will tend to be more sensual, often being more flirtatious, even when it may be unwarranted. inversely Spirits low in SEX will tend to be more reclusive when it comes to intimacy, and more exclusive in their partnerships, if they have any at all.
+
+11) DIV = Divinity, How close the Spirit is to it's divine nature. Spirits high in DIV have a direct connection to their divine nature, often thinking in more essiterric terms, and seeking to stregnthen that connection. Inversely Spirits low in DIV tend to be more atheistic and materialistic opting instead to leave those kind of contemplations behind as a kind of hinderence.
+
+12) EGO = Ego, The Spirit's sense of self. Spirits with high EGO tend to be more self involved, seeing themselves as all important, or superior in some way. Inversely Spirits low in EGO tend to leave themselves out of their considerations even when it is directly harmful to themselves.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bio-States/Interactions:
+
+	Depending on the difference between the caster, and the target, Loyalty and State values will be higher or lower.
+
+Each combination of Bio-data is treated as "ATK" and "DEF" in any given interaction for both participants. The first bio-controller being "ATK" and the second being "DEF" with Loyalty being treated as "HP" in any given interaction. Increasing or decreasing depending on how the interaction goes.
+
+Ex. 1: If (Caster's DIV) > (Target's WIS) by 2, telling a stale joke, the target will gain 2 loyalty to the caster. Likewise, the reverse would cause a loss of 2 loyalty. 
+
+Ex. 2: If (Target's DIV) > (Caster's WIS) by 2, hearing a stale joke, the caster will gain 2 loyalty to the target. Like above, the reverse would cause a loss in the caster's loyalty.
+
+In both instances, each of the target and the caster have their own loyalty rating for each other participant. As the conversation continues, the loyalty between the actors will increase until they each reach max, or inversely reach the minimum, where actors may become hostile.
+
+Alternatively, You can get a glimpse into the personality of an actor by comparing their own bio-data internally. If their WIS and DIV are equal, they don't have much of a sense of humor naturally. This can be done with every interaction/state to help you better understand the personality of the spirit you're talking to, without affecting the loyalty ratings of that actor.
+
+These interactions may also be randomized with dice to automate the process, instead of choosing each interaction individually, or when choosing interactions from entities you do not control. Loyalty ratings between entities may vastly change socio political landscapes, cultures, and the kinds of people living in a given location.
+
+The Biorythms of which are determined by the time of their origin in a given location, and changed over time based on mating habits and Zodiac alignments. This data is typically computed randomly by throwing bones while exploring enviornments and interacting with entities.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1-Humor; (DIV - WIS)
+	If Divinity > Wisdom, the target may be amused.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2-Faith; (VIT - WIS)
+	If Virtue > Wisdom, the target may have faith.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3-Fortune; (WIS - VIT)
+	If Wisdom > Virtue, the target may gain favor.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4-Illusion; (VIT - MNF) 
+	If Virtue > Manifestation, the target may be mislead.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5-Judgment; (SPL - MNF) 
+	If Splendor > Manifestation, the target may pass Judgement.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6-Patience; (STR - SPL) 
+	If Strength > Splendor, the target may be patient.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+7-Will; (UND - STR)
+	If Understanding > Strength, the target may have indomitable will.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+8-Power; (DIV - UND)
+	If Divinity > Understanding, the target may tend to seek power.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+9-Bravery; (KNO - WIS) 
+	If Knowledge > Wisdom, the target may make bold choices.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+10-Doubt; (VIT - WIS)
+	If Virtue > Wisdom, the target may doubt the caster.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11-Loss; (WIS - VIT)
+	If Wisdom > Virtue, the target may feel betrayed.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+12-Irratic; (MNF - VIT)
+	If Manifestation > Virtue, the target may take random actions.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+13-Arrogance; (MNF - SPL)
+	If Manifestation > Splendor, the target may serve self over others.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+14-Sacrifice; (SPL - STR)
+	If Splendor > Strength, the target may tend to sacrifice themselves for others.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15-Violence; (STR - UND)
+	If Strength > Understanding, the target may be prone to anger.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+16-Deception; (UND - DIV)
+	If Understanding > Divinity, the target may be deceived.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+17-Nurture; (UND - WIS)
+	If Understanding > Wisdom, the target may be nurturing.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+18-Authority; (WIS - BEU)
+	If Wisdom > Beauty, the target may give the caster authority.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+19-Solitude; (BEU - WIS)
+	If Beauty > Wisdom, the target may tend to introvert.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+20-Transition; (BEU - VIT)
+	If Beauty > Virtue, the target may change their mind.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+21-Recovery; (FND - SPL) 
+	If Foundation > Splendor, caster may negate counters up to the value of this check.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+22-Revolution; (SPL - VIT)
+	If Splendor > Virtue, the target may reject authority.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+23-Freedom; (BEU - SPL)
+	If Beauty > Splendor, the target may be difficult to control.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+24-Justice; (STR - BEU) 
+	If Strength > Beauty, the target may tend to seek justice.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+25-Strength; (STR - WIS) 
+	If Strength > Wisdom, the target may be unyielding.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+26-Passion; (UND - BEU)
+	If Understanding > Beauty, the target may be more passionate.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+27-Decay; (WIS - UND) 
+	If Wisdom > Understanding, the target may have their will weakened.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+28-Manipulation; (BEU - WIS)
+	If Beauty > Wisdom, the target may be manipulated by the caster.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+29-Loneliness; (WIS - BEU) 
+	If Wisdom > Beauty, the target might find themselves without companionship.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+30-Stability; (VIT - BEU)
+	If Virtue > Beauty, the target may be more well founded.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+31-Despair; (VIT - FND)
+	If Virtue > Foundation, the target may not protect itself.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+32-Illness; (FND - SPL) 
+	If Foundation > Splendor, the target may be more prone to sickness.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+33-Slavery; (BEU - SPL)
+	If Beauty > Splendor, the target may be enslaved once defeated.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+34-Cruelty; (BEU - STR)
+	If Beauty > Strength, the target may tend to be a little cruel.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+35-Weakness; (WIS - STR)
+	If Wisdom > Strength, the target may tend to be naieve.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+36-Lust; (BEU - UND) 
+	If Beauty > Understanding, the target may lust after the caster.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+37-Mystery; (KNO - DIV)
+	If Knowledge > Divinity, The target may be found mysterious.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+38-Balance; (FND - BEU)
+	If Foundation > Beauty, The target may be good at remaining calm.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+39-Completion; (MNF - FND)
+	If Manifestation > Foundation, the target may be very ambitious.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+40-Discourse; (FND - MNF)
+	If Foundation > Manifestation, the target may be better at solving disagreements.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+41-Excess; (BEU - FND)
+	If Beauty > Foundation, the target may tend toward abundance.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+42-Secrecy; (DIV - KNO)
+	If Divinity > Knowledge, the target may tend to hoard information.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
